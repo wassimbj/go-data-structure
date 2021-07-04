@@ -12,7 +12,7 @@ package main
 
 	but when we cut each piece and isolate it from the other we get a linked list
 
-	each node (piece) of the list links to the next one, and last node links to null
+	each node (piece) of the list points to the next one, and last node points to null
 */
 
 import "fmt"
